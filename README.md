@@ -1,6 +1,5 @@
-# 🍬 Sweet Shop Chatbot: An LLM & SQL Demo 🍭
-
-![Sweet Shop Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+the+Sweet+Shop+Chatbot!+🍫🍭🧁)
+# 🍬 Sweet Shop Chatbot: An LLM & SQL Demo 🍭🍫🍭🧁
+https://banner.png
 
 A delightful chatbot that lets you explore a virtual sweet shop's inventory using natural language! This project demonstrates how to combine the power of local Large Language Models (LLMs) with SQL databases to create interactive, data-driven applications.
 
@@ -115,7 +114,7 @@ The sweet shop database contains a single table:
 ## 🎥 Video Tutorial
 
 For a visual guide, check out our YouTube tutorial:
-[How to Run an LLM on Your Own Computer - Fun with AI](https://www.youtube.com/watch?v=your-video-id-here)
+[Refrences:](https://youtu.be/4wtrl4hnPT8)
 
 ## 🙋‍♂️ Need Help?
 
