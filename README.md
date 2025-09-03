@@ -1,5 +1,6 @@
 # 🍬 Sweet Shop Chatbot: An LLM & SQL Demo 🍭🍫🍭
-vidhi-sys/Chatbot-An-LLM-SQL-Demo-/blob/main/banner.png
+https://github.com/vidhi-sys/Chatbot-An-LLM-SQL-Demo/raw/main/banner.png
+
 A delightful chatbot that lets you explore a virtual sweet shop's inventory using natural language! This project demonstrates how to combine the power of local Large Language Models (LLMs) with SQL databases to create interactive, data-driven applications.
 
 ## 🌟 Features
